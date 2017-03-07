@@ -1,6 +1,7 @@
-const Eris = require("eris");
+const DatXpert = require("DatXpert");
 
-var bot = new Eris("BOT_TOKEN");
+var bot = new DatXpert("Mjg3NzQ2NDc5MTU2NzU2NDgx.C6BiXA.2EP8_EhNkxbBy42ut1DznOlz1Rk
+");
 // Replace BOT_TOKEN with your bot account's token
 
 bot.on("ready", () => { // When the bot is ready
